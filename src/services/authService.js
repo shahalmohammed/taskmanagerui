@@ -1,6 +1,6 @@
 import axios from 'axios'
 
-const API_URL = 'http://localhost/task-manager/public/api'
+const API_URL = 'http://16.171.7.97/api'
 
 /**
  * Handle login request
