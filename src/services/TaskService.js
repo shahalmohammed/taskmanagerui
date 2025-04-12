@@ -1,5 +1,5 @@
 
-const baseURL = 'http://16.171.7.97/api';
+const baseURL = 'http://localhost/task-manager/public/api';
 
 /**
  * Get the authentication token from local storage

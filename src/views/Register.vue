@@ -185,7 +185,7 @@ export default {
             this.isSubmitting = true
 
             try {
-                await axios.post('http://16.171.7.97/api/register', {
+                await axios.post('http://localhost/task-manager/public/api/register', {
                     name: this.name,
                     email: this.email,
                     password: this.password
